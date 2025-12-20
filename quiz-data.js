@@ -770,13 +770,6 @@ C) Both Digital and Analog Computer
 D) None of these
 ANS: C
 
-Q: What is the full form of EDVAC?
-A) Electronic Digital Variable Automatic Computer
-B) Electronic Discrete Variable Automatic Computer
-C) Electronic Digital Variable All Computer
-D) Electronic Delay Variable Automatic Computer
-ANS: B
-
 Q: What difference does the Fifth Generation Computer have from other generation computers?
 A) Processing Speed
 B) Technology Advancement
@@ -1742,13 +1735,6 @@ C) OCR
 D) Barcode Reader
 ANS: D
 
-Q: Which of the following is NOT an output device?
-A) Scanner
-B) Monitor
-C) Printer
-D) Plotter
-ANS: A
-
 [SUBJECT: computer]
 [CHAPTER: Memory]
 Q: What is Computer Memory?
@@ -2254,26 +2240,12 @@ C) Zettabyte
 D) Gigabyte
 ANS: B
 
-Q: The smallest unit of storage is...
-A) Bit
-B) Byte
-C) Kilobyte
-D) Megabyte
-ANS: A
-
 Q: Memory is made up of...
 A) Set of Wires
 B) Set of Circuits
 C) Large number of cells
 D) None of the above
 ANS: C
-
-Q: What is the range of a binary number system?
-A) 0 to 1
-B) 0 to 8
-C) 0 to 16
-D) None of the above
-ANS: A
 
 Q: Which memory is the actual working memory?
 A) RAM
@@ -2288,13 +2260,6 @@ B) Remote Access Memory
 C) Range Access Memory
 D) Random Access Memory
 ANS: D
-
-Q: Auxiliary memory is also called..
-A) Primary Memory
-B) Secondary Memory
-C) Main Memory
-D) None of the above
-ANS: B
 
 Q: What is Secondary Memory?
 A) It is non-volatile in nature and is slower than primary memories
@@ -2352,20 +2317,6 @@ C) 1000 KB
 D) 1024 KB
 ANS: B
 
-Q: Which one of the following is not a valid category of computer memory?
-A) Primary Memory
-B) Secondary Memory
-C) Tertiary Memory
-D) Public Memory
-ANS: D
-
-Q: How many types of RAM are available?
-A) 2
-B) 3
-C) 4
-D) 5
-ANS: A
-
 Q: SRAM stands for...
 A) Static Random Access Memory
 B) Super Random Access Memory
@@ -2420,13 +2371,6 @@ A) Cache Memory
 B) System Memory
 C) Internal Memory
 D) External Memory
-ANS: D
-
-Q: Which of the following memory is used in a digital camera?
-A) RAM
-B) ROM
-C) EPROM
-D) Flash Memory
 ANS: D
 
 Q: The Primary Memory consists of...
@@ -2492,13 +2436,6 @@ C) Electrical Erasable Program Read Only Memory
 D) None of the above
 ANS: A
 
-Q: Which type of ROM is used for erasing purposes only?
-A) PROM
-B) EPROM
-C) EEPROM
-D) None of the above
-ANS: C
-
 Q: Which of the following is an example of storage devices?
 A) Keyboard
 B) Monitor
@@ -2526,13 +2463,6 @@ B) Compact Disk
 C) Magnetic Disk
 D) None of this
 ANS: D
-
-Q: USB stands for...
-A) Universal Serial Bus
-B) Universal Service Bus
-C) Uniform Serial Bus
-D) Universal Signal Bus
-ANS: A
 
 Q: What type of storage device is USB?
 A) Primary
@@ -4103,16 +4033,6 @@ Q: Linux is a(n) Open Source Operating System. (True/False)
 A) True
 B) False
 ANS: A
-
-Q: Consider the following statement:
-Statement 1: Linux is developed under the Free and Open Source Software (FOSS) model.
-Statement 2: Android is a mobile operating system.
-Which of the following statement(s) given above is/are correct?
-A) Only 1
-B) Only 2
-C) Both 1 and 2
-D) Neither 1 nor 2
-ANS: C
 
 Q: The smallest filename allowed in DOS is...
 A) 1 character
@@ -6614,13 +6534,6 @@ C) Intelligent Terminal
 D) All of the above
 ANS: B
 
-Q: The complete information about one entity in a database is called a(n)...
-A) Data
-B) Field
-C) Record
-D) Information
-ANS: C
-
 Q: A specific piece of data in a table is known as a(n)...
 A) Field
 B) Report
@@ -6670,13 +6583,6 @@ C) Toggle Button
 D) Option Button
 ANS: B
 
-Q: In MS Access, the Text data type can contain a maximum character of...
-A) 255
-B) 500
-C) 1024
-D) 2048
-ANS: A
-
 Q: In MS Access, which operation copies a backup of files from the storage medium back to the computer?
 A) Copy
 B) Store
@@ -6684,40 +6590,12 @@ C) Restore
 D) Structure
 ANS: C
 
-Q: The components of a database are table, query, form, anD..
-A) Macro and Report
-B) Table and Field
-C) Record and Field
-D) All of the above
-ANS: A
-
-Q: Which of the following is NOT a database object?
-A) Table
-B) Report
-C) Query
-D) Relationship
-ANS: D
-
 Q: Which of the following is a Free and Open Source Operating System?
 A) Linux
 B) Windows
 C) macOS
 D) Android
 ANS: A
-
-Q: The suitable data type to store time in MS Access is...
-A) Text
-B) Number
-C) Time
-D) Date/Time
-ANS: D
-
-Q: Which of the following is an invalid field name?
-A) Student Name
-B) Student Age
-C) Student ID
-D) Student.DOB
-ANS: D
 
 
 [SUBJECT: computer]
@@ -8115,13 +7993,6 @@ C) Norton
 D) Creeper
 ANS: D
 
-Q: Which of the following is NOT an antivirus software?
-A) AVG
-B) Avast
-C) Windows
-D) McAfee
-ANS: C
-
 Q: Encryption is used to protect your ____ and ____.
 A) File and folder
 B) Data and password
@@ -8158,41 +8029,6 @@ A) Brain
 B) Creeper
 C) Elk Cloner
 D) Reaper
-ANS: C
-
-Q: The first boot sector virus is...
-A) Elk Cloner
-B) Brain
-C) Creeper
-D) Reaper
-ANS: B
-
-Q: A computer virus is a ____ that spreads itself.
-A) Computer program
-B) Virus that affects the health of human beings
-C) Both of the above
-D) None of the above
-ANS: A
-
-Q: What is the full form of VIRUS?
-A) Vital Information Resources Under Surveillance
-B) Vital Information Relay Utility System
-C) Vital Information Resource Under Siege
-D) None of the above
-ANS: C
-
-Q: When was the first PC virus developed?
-A) 1982
-B) 1984
-C) 1986
-D) 1988
-ANS: C
-
-Q: Code Red is a type of...
-A) Antivirus Program
-B) Photo Editing Software
-C) Computer Virus
-D) Video Editing Software
 ANS: C
 
 
@@ -8504,13 +8340,6 @@ B) Monitor
 C) Projector
 D) Scanner
 ANS: D
-
-Q: Which of the following is a Non-Impact Printer?
-A) Dot Matrix Printer
-B) Inkjet Printer
-C) Daisy Wheel Printer
-D) Drum Printer
-ANS: B
 
 Q: Which of the following device is a hard copy device?
 A) Inkjet Printer
@@ -11318,13 +11147,6 @@ C) American Research Project Association Network
 D) Advanced Routing Protocol Agency Network
 ANS: B
 
-Q: What is the full form of HTML?
-A) High-Level Text Markup Language
-B) Hypertext Transfer Markup Language
-C) Hyper Text Markup Language
-D) Host Terminal Markup Language
-ANS: C
-
 Q: HTTP stands for:
 A) High-Speed Text Transfer Protocol
 B) Hyperlink Transfer Timing Protocol
@@ -11359,13 +11181,6 @@ B) Data Naming System
 C) Domain Name System
 D) Direct Network Server
 ANS: C
-
-Q: What is the full form of JPEG?
-A) Joint Photographic Experts Group
-B) Justified Photo Encoding Group
-C) Joint Picture Exchange Graph
-D) Java Picture Entry Group
-ANS: A
 
 Q: MIPS stands for:
 A) Mega Instruction Per Second
@@ -11465,26 +11280,12 @@ C) Exchangeable Image File Format
 D) Expanded Image File Format
 ANS: C
 
-Q: What is the full form of ASCII?
-A) Advanced Standard Code for Information Interchange
-B) American Standard Code for Information Interchange
-C) Application System Code for Information Interface
-D) Analog System Code for Information Input
-ANS: B
-
 Q: What is the full form of COBOL?
 A) Common Byte Object Language
 B) Core Business Oriented Language
 C) Common Business Oriented Language
 D) Computer Business Operation Logic
 ANS: C
-
-Q: What is the full form of ENIAC?
-A) Electronic Numerical Interface And Computer
-B) Electronic Numeric Integrated All Computer
-C) Electronic Network Integrated And Computer
-D) Electronic Numerical Integrator And Computer
-ANS: D
 
 Q: UNIVAC stands for:
 A) Universal Numerical Integrator And Computer
@@ -11570,13 +11371,6 @@ C) Graphics Interchange Format
 D) Graphical Interlaced Frame
 ANS: C
 
-Q: What is the full form of BIOS?
-A) Basic Internet Output System
-B) Binary Input/Output Software
-C) Basic Input/Output System
-D) Boot Initial Operating System
-ANS: C
-
 Q: What is the full form of OCR?
 A) Output Character Reader
 B) Optical Code Reader
@@ -11619,47 +11413,12 @@ C) Exchange Mail
 D) Enterprise Mail
 ANS: A
 
-Q: What is the full form of URL?
-A) Universal Resource Link
-B) Uniform Resource Locator
-C) Unified Remote Link
-D) User Resource Locator
-ANS: B
-
-Q: What is the full form of BIOS?
-A) Bureau of International Open Source
-B) Basic Input Output System
-C) Basic Integrated Operating System
-D) Basic Interface Operation System
-ANS: B
-
-Q: What is the full form of ALU?
-A) Application Layer Unit
-B) Arithmetic Logic Unit
-C) Address Line Unit
-D) Auxiliary Logic Unit
-ANS: B
-
 Q: What is the full form of API?
 A) Application Program Interface
 B) Advanced Program Integration
 C) Application Process Interface
 D) All Program Interface
 ANS: A
-
-Q: What is the full form of ASCII?
-A) Application Standard Code for Integration of Information
-B) American Standard Code for Information Interchange
-C) Advanced System Code for Input Interconnection
-D) American System Code for Integration Interface
-ANS: B
-
-Q: What is the full form of ATM?
-A) Asynchronous Transfer Mode
-B) Automatic Teller Machine
-C) Advanced Time Management
-D) All Time Module
-ANS: B
 
 Q: What is the full form of BCC?
 A) Batch Control Code
@@ -11675,26 +11434,12 @@ C) Random Access Memory
 D) Resource Allocation Manager
 ANS: C
 
-Q: What is the full form of GUI?
-A) General User Interface
-B) Graphics Universal Input
-C) Graphical User Interface
-D) Global Unit Interface
-ANS: C
-
 Q: What is the full form of EDSAC?
 A) Electronic Digital Storage Automatic Calculator
 B) Electronic Delay Storage Analog Calculator
 C) Electronic Delay Storage Automatic Calculator
 D) Electric Data System Access Controller
 ANS: C
-
-Q: What is the full form of HTML?
-A) Hyper Transfer Markup Language
-B) High-Level Text Management Language
-C) Hypertext Mark Language
-D) Hypertext Markup Language
-ANS: D
 
 Q: What is the full form of HTTP?
 A) Hypertext Tool Transfer Protocol
@@ -11703,27 +11448,6 @@ C) Hypertext Transfer Protocol
 D) Hypertext Technical Protocol
 ANS: C
 
-Q: What is the full form of ISDN?
-A) Internet Service Digital Network
-B) Internal System Digital Network
-C) Integrated Services Digital Network
-D) Interconnect Service Data Network
-ANS: C
-
-Q: What is the full form of CD-ROM?
-A) Central Data Read Only Memory
-B) Core Disk Read Only Module
-C) Compact Disk Read Only Memory
-D) Computer Disk Recording Output Memory
-ANS: C
-
-Q: What is the full form of CPU?
-A) Central Power Unit
-B) Computer Process Utility
-C) Core Processing Unit
-D) Central Processing Unit
-ANS: D
-
 Q: What is the full form of CLI?
 A) Core Line Interface
 B) Command Line Interface
@@ -11731,61 +11455,12 @@ C) Character Line Input
 D) Console Line Integration
 ANS: B
 
-Q: What is the full form of DBMS?
-A) Database Basic Management System
-B) Digital Base Management System
-C) Data Backup Management System
-D) Database Management System
-ANS: D
-
-Q: What is the full form of DTP?
-A) Digital Terminal Processor
-B) Data Transfer Protocol
-C) Desktop Processing
-D) Desktop Publishing
-ANS: D
-
 Q: What is the full form of IT?
 A) Integrated Technology
 B) Intelligent Telephony
 C) Information Technology
 D) International Time
 ANS: C
-
-Q: What is the full form of JPEG?
-A) Joint Photo Extension Group
-B) Joint Photographic Experts Group
-C) Justified Picture Entity Group
-D) Java Picture Encoding Group
-ANS: B
-
-Q: What is the full form of LED?
-A) Line Emitting Diode
-B) Light Emitting Display
-C) Low Energy Diode
-D) Light Emitting Diode
-ANS: D
-
-Q: What is the full form of LCD?
-A) Liquid Cathode Display
-B) Liquid Crystal Display
-C) Low Crystal Display
-D) Liquidified Cathode Display
-ANS: B
-
-Q: What is the full form of MICR?
-A) Mobile Ink Character Reader
-B) Magnetic Ink Code Reader
-C) Magnetic Ink Character Recognition
-D) Mainframe Internal Character Reader
-ANS: C
-
-Q: What is the full form of MAN?
-A) Mobile Area Network
-B) Metropolitan Area Network
-C) Main Area Network
-D) Multimedia Area Network
-ANS: B
 
 Q: What is the full form of LAN?
 A) Linked Access Network
@@ -11801,53 +11476,11 @@ C) Wireless Application Protocol
 D) Web Access Protocol
 ANS: C
 
-Q: What is the full form of Wi-Fi?
-A) Wired Fidelity
-B) Wireless Fidelity
-C) Windows Fidelity
-D) Web Information Fidelity
-ANS: B
-
-Q: What is the full form of WLAN?
-A) Wide Local Area Network
-B) Windows Local Area Network
-C) Wireless Large Area Network
-D) Wireless Local Area Network
-ANS: D
-
 Q: What is the full form of VIRUS?
 A) Viral Information Recovery Under System
 B) Vital Information Resource Under Siege
 C) Volatile Information Read Under System
 D) Vector-based Information Resource Utility System
-ANS: B
-
-Q: What is the full form of DNS?
-A) Digital Network System
-B) Domain Name Service
-C) Domain Name System
-D) Digital Number Service
-ANS: C
-
-Q: What is the full form of PDF?
-A) Permanent Document Format
-B) Portable Data File
-C) Portable Document Format
-D) Print Document File
-ANS: C
-
-Q: What is the full form of RDBMS?
-A) Random Database Management System
-B) Relational Data Base Management System
-C) Remote Database Management System
-D) Relational Database Management System
-ANS: D
-
-Q: What is the full form of SIM?
-A) Standard Input Module
-B) Subscriber Identity Module
-C) System Integration Model
-D) Secure Internet Model
 ANS: B
 
 Q: What is the full form of USB?
@@ -11857,40 +11490,12 @@ C) Uniform Service Broadcast
 D) User System Backup
 ANS: B
 
-Q: What is the full form of VPN?
-A) Value Private Network
-B) Virtual Private Network
-C) Voice Protocol Network
-D) Virtual Program Node
-ANS: B
-
 Q: What is the full form of VDU?
 A) Video Display Unit
 B) Visual Data Utility
 C) Voice Display Unit
 D) Virtual Display Unit
 ANS: A
-
-Q: What is the full form of CPU?
-A) Central Program Unit
-B) Control Processing Utility
-C) Central Processing Unit
-D) Core Process Unit
-ANS: C
-
-Q: What is the full form of RAM?
-A) Read Array Memory
-B) Random Access Memory
-C) Resource Access Module
-D) Remote Access Memory
-ANS: B
-
-Q: What is the full form of ROM?
-A) Random Output Memory
-B) Read Output Module
-C) Read Only Memory
-D) Remote Operating Memory
-ANS: C
 
 Q: What is the full form of HDD?
 A) High Definition Disk
@@ -11906,54 +11511,12 @@ C) Sequential Storage Disk
 D) Solid System Disk
 ANS: B
 
-Q: What is the full form of UPS?
-A) Unified Power System
-B) Universal Power Source
-C) Uninterruptible Power Supply
-D) User Protection System
-ANS: C
-
-Q: What is the full form of USB?
-A) Unified System Bus
-B) Universal Serial Bus
-C) User Standard Base
-D) Utility Storage Byte
-ANS: B
-
-Q: What is the full form of GUI?
-A) General User Interface
-B) Graphical User Interface
-C) Graphics Utility Input
-D) Group User Instruction
-ANS: B
-
 Q: What is the full form of OS?
 A) Output System
 B) Operating Source
 C) Optimal System
 D) Operating System
 ANS: D
-
-Q: What is the full form of PC?
-A) Private Connection
-B) Permanent Code
-C) Personal Computer
-D) Process Control
-ANS: C
-
-Q: What is the full form of NIC?
-A) Network Input Connector
-B) Network Interface Card
-C) New Integrated Circuit
-D) Node Internet Controller
-ANS: B
-
-Q: What is the full form of SRAM?
-A) Sequential Read Access Memory
-B) Static Random Array Module
-C) Static Random Access Memory
-D) System Resource Access Memory
-ANS: C
 
 Q: What is the full form of DRAM?
 A) Direct Read Access Module
@@ -12011,13 +11574,6 @@ C) Embedded Erasable Process Read Only Module
 D) Electric Energy Programmable Read Only Memory
 ANS: B
 
-Q: What is the full form of CD?
-A) Central Disk
-B) Compact Disc
-C) Computer Drive
-D) Core Data
-ANS: B
-
 Q: What is the most common full form of DVD?
 A) Digital Video Disk
 B) Dual Versatile Data
@@ -12053,27 +11609,6 @@ C) Terabyte
 D) Terminal Base
 ANS: C
 
-Q: What is the full form of BIOS?
-A) Binary Input Output System
-B) Basic Integrated Operating Software
-C) Basic Input Output System
-D) Boot Initial Operating System
-ANS: C
-
-Q: What is the full form of CMOS?
-A) Common Metal Output System
-B) Complementary Metal Oxide Semiconductor
-C) Centralized Memory Operating System
-D) Computer Monitoring Output Source
-ANS: B
-
-Q: What is the full form of VDU?
-A) Virtual Data Utility
-B) Visual Display Unit
-C) Video Digital Unit
-D) Volatile Data Update
-ANS: B
-
 Q: What is the full form of VGA?
 A) Visual Graphic Adapter
 B) Video Graphics Array
@@ -12087,34 +11622,6 @@ B) High Data Media Interface
 C) Hardware Digital Media Interface
 D) High Definition Multimedia Interface
 ANS: D
-
-Q: What is the full form of PSU?
-A) Primary System Utility
-B) Power Supply Unit
-C) Program Service Unit
-D) Permanent Storage Unit
-ANS: B
-
-Q: What is the full form of CRT?
-A) Central Resource Terminal
-B) Cathode Ray Tube
-C) Computerized Remote Terminal
-D) Core Response Time
-ANS: B
-
-Q: What is the full form of LCD?
-A) Light Control Display
-B) Liquid Crystal Digital
-C) Line Command Display
-D) Liquid Crystal Display
-ANS: D
-
-Q: What is the full form of LED?
-A) Light Emitting Diode
-B) Liquid Energy Display
-C) Line End Display
-D) Low Emission Diode
-ANS: A
 
 Q: What is the full form of DPI?
 A) Data Processing Index
@@ -12179,27 +11686,6 @@ C) Internet Protocol
 D) Information Program
 ANS: C
 
-Q: What is the full form of TCP?
-A) Terminal Communication Protocol
-B) Transmission Control Protocol
-C) Transfer Control Process
-D) Total Connection Point
-ANS: B
-
-Q: What is the full form of TCP/IP?
-A) Terminal Communication Protocol/Interface Program
-B) Transfer Control Protocol/Internal Process
-C) Transmission Control Protocol/Internet Protocol
-D) Total Connection Point/Input Protocol
-ANS: C
-
-Q: What is the full form of URL?
-A) Universal Resource Link
-B) Uniform Resource Locator
-C) User Resource Location
-D) Unified Remote Link
-ANS: B
-
 Q: What is the full form of ISP?
 A) Integrated Service Point
 B) Internet System Protocol
@@ -12207,67 +11693,11 @@ C) Internal System Provider
 D) Internet Service Provider
 ANS: D
 
-Q: What is the full form of HTTP?
-A) High-speed Text Transfer Protocol
-B) Hypertext Transfer Protocol
-C) Host Terminal Transfer Protocol
-D) High Transmission Technology Protocol
-ANS: B
-
 Q: What does the 'S' stand for in HTTPS?
 A) Server
 B) Secure
 C) Standard
 D) System
-ANS: B
-
-Q: What is the full form of DNS?
-A) Digital Network Service
-B) Domain Name System
-C) Data Naming Structure
-D) Distributed Network Software
-ANS: B
-
-Q: What is the full form of LAN?
-A) Limited Access Network
-B) Large Area Network
-C) Local Area Network
-D) Local Access Node
-ANS: C
-
-Q: What is the full form of WAN?
-A) Wired Access Node
-B) Wide Array Network
-C) Wireless Application Network
-D) Wide Area Network
-ANS: D
-
-Q: What is the full form of MAN?
-A) Mainframe Access Network
-B) Metropolitan Area Network
-C) Mobile Access Node
-D) Multimedia Access Network
-ANS: B
-
-Q: What is the full form of Wi-Fi?
-A) Wired Fidelity
-B) Wireless Field
-C) Wide Fiber
-D) Wireless Fidelity
-ANS: D
-
-Q: What is the full form of VPN?
-A) Video Private Node
-B) Voice Protocol Network
-C) Virtual Private Network
-D) Versatile Processing Node
-ANS: C
-
-Q: What is the full form of FTP?
-A) Fast Transfer Process
-B) File Transfer Protocol
-C) Folder Transmission Path
-D) Functional Text Protocol
 ANS: B
 
 Q: What is the full form of WWW?
@@ -12291,33 +11721,12 @@ C) Basic Client Code
 D) Blind Communication Center
 ANS: B
 
-Q: What is the full form of SMTP?
-A) Secure Mail Transfer Protocol
-B) Simple Mail Transmission Process
-C) System Messaging Time Protocol
-D) Simple Mail Transfer Protocol
-ANS: D
-
-Q: What is the full form of POP?
-A) Primary Output Protocol
-B) Post Office Protocol
-C) Power Optimization Program
-D) Permanent Output Point
-ANS: B
-
 Q: What is the full form of IMAP?
 A) Integrated Message Archive Protocol
 B) Internet Mail Allocation Process
 C) Internal Message Access Protocol
 D) Internet Message Access Protocol
 ANS: D
-
-Q: What is the full form of MIME?
-A) Mainframe Internet Mail Encoder
-B) Multimedia Input Message Extension
-C) Multipurpose Internet Mail Extensions
-D) Mobile Information Management Entity
-ANS: C
 
 Q: What is the full form of VoIP?
 A) Virtual Office Internet Protocol
@@ -12326,25 +11735,11 @@ C) Voice over Internet Protocol
 D) Video over IP
 ANS: C
 
-Q: What is the full form of SMS?
-A) Secure Mail System
-B) System Management Service
-C) Short Message Service
-D) Simple Messaging Software
-ANS: C
-
 Q: What is the full form of MMS?
 A) Mobile Media System
 B) Multimedia Message Service
 C) Mainframe Message System
 D) Multi-purpose Messaging Standard
-ANS: B
-
-Q: What is the full form of ISDN?
-A) Internet Service Data Network
-B) Integrated Services Digital Network
-C) Internal System Data Network
-D) Integrated Service Domain Name
 ANS: B
 
 Q: What is the full form of OTP?
@@ -12388,13 +11783,6 @@ B) Two-Function Array
 C) Two-Factor Authentication
 D) Token Function Allocation
 ANS: C
-
-Q: What is the full form of AI?
-A) Analytical Interface
-B) Artificial Intelligence
-C) Automated Integration
-D) Application Interface
-ANS: B
 
 Q: What is the full form of ML?
 A) Master Logic
@@ -12473,13 +11861,6 @@ C) Permanent Presentation Type
 D) PowerPoint Presentation
 ANS: D
 
-Q: What is the full form of PDF?
-A) Print Document File
-B) Portable Data Format
-C) Permanent Digital File
-D) Portable Document Format
-ANS: D
-
 Q: What is the full form of CSV?
 A) Command System Vector
 B) Comma Separated Values
@@ -12501,20 +11882,6 @@ C) Internet Data Exchange
 D) Integrated Digital Editor
 ANS: B
 
-Q: What is the full form of SQL?
-A) Standard Query Logic
-B) Structured Question Language
-C) Structured Query Language
-D) System Question Logic
-ANS: C
-
-Q: What is the full form of HTML?
-A) Hypertext Transfer Markup Language
-B) High-Level Text Management Language
-C) Hypertext Markup Language
-D) Host Terminal Markup Language
-ANS: C
-
 Q: What is the full form of XML?
 A) Extended Mainframe Logic
 B) Exchange Mail Link
@@ -12527,13 +11894,6 @@ A) Computer Style System
 B) Core System Software
 C) Cascading Style Sheets
 D) Control Stream Service
-ANS: C
-
-Q: What is the full form of OOP?
-A) Output Oriented Process
-B) Object-Oriented Protocol
-C) Object-Oriented Programming
-D) Optimized Output Program
 ANS: C
 
 Q: What is the full form of SDK?
@@ -12585,20 +11945,6 @@ C) Voice Manager
 D) Virtual Machine
 ANS: D
 
-Q: What is the full form of DBMS?
-A) Data Backup Management System
-B) Database Management System
-C) Digital Base Management Software
-D) Data Byte Management Service
-ANS: B
-
-Q: What is the full form of RDBMS?
-A) Read Database Management System
-B) Relational Digital Backup System
-C) Remote Database Management Software
-D) Relational Database Management System
-ANS: D
-
 Q: What is the full form of OLAP?
 A) Online Logical Access Protocol
 B) Optimized Logics and Programs
@@ -12647,13 +11993,6 @@ B) Integrated Electronics
 C) Internal Technology
 D) Integrated Telecommunications
 ANS: B
-
-Q: What is the full form of MSI?
-A) Main System Interface
-B) Media Service Integration
-C) Micro-Star International
-D) Mobile Software Installer
-ANS: C
 
 Q: What is the full form of SAP (as a company)?
 A) Standard Application Protocol
@@ -12704,20 +12043,6 @@ C) Java Source
 D) Just Syntax
 ANS: B
 
-Q: What is the full form of COBOL?
-A) Common Basic Operating Language
-B) Central Object-Based Operating Logic
-C) Common Business-Oriented Language
-D) Core Binary Operating Logic
-ANS: C
-
-Q: What is the full form of BASIC?
-A) Binary All-purpose Simple Instruction Code
-B) Beginner's All-purpose Symbolic Instruction Code
-C) Base Area System Interface Code
-D) Business Application Symbolic Input Code
-ANS: B
-
 Q: What is the full form of PERL?
 A) Program Execution Report Logic
 B) Practical Extraction and Report Language
@@ -12731,13 +12056,6 @@ B) Program Hypertext Processor
 C) Pre-Hyperlink Protocol
 D) Hypertext Preprocessor
 ANS: D
-
-Q: What is the full form of FORTRAN?
-A) Format Translation
-B) Function and Retrieval Text Access Node
-C) Formula Translator
-D) Fast Text Reader and Network
-ANS: C
 
 Q: What is the full form of LISP?
 A) Language for Internet System Program
@@ -12877,13 +12195,6 @@ A) Digital Operating System
 B) Data Operating Software
 C) Disk Operating System
 D) Disk Output Service
-ANS: C
-
-Q: What is the full form of IMAP?
-A) Integrated Mail Access Protocol
-B) Internal Message Access Program
-C) Internet Message Access Protocol
-D) Internet Mail Application Protocol
 ANS: C
 
 Q: In network services, WINS stands for:
