@@ -1,5 +1,4 @@
 window.QUIZ_DATA_TEXT = `
-
 [SUBJECT: computer]
 [CHAPTER: Computer Fundamentals]
 Q: Which of the following is the correct order of the four major functions of a computer?
@@ -840,7 +839,6 @@ C) Extended Byte Coded Decimal Interchange Code
 D) Extended Binary Computer Decimal Interchange Code
 ANS: B
 
-
 [SUBJECT: computer]
 [CHAPTER: Types of Computer]
 Q: What is a computer?
@@ -1092,7 +1090,6 @@ B) Mini Computer
 C) Notebook Computer
 D) None of These
 ANS: B
-
 
 [SUBJECT: computer]
 [CHAPTER: Super Computer]
@@ -2317,13 +2314,6 @@ C) 1000 KB
 D) 1024 KB
 ANS: B
 
-Q: SRAM stands for...
-A) Static Random Access Memory
-B) Super Random Access Memory
-C) Standard Random Access Memory
-D) None of the above
-ANS: A
-
 Q: Which of the following is/are the feature(s) of SRAM?
 A) It is faster than DRAM
 B) It is bigger in size and more expensive than DRAM
@@ -2929,7 +2919,6 @@ C) Device Drivers
 D) Word Processors
 ANS: D
 
-
 [SUBJECT: computer]
 [CHAPTER: Windows OS]
 Q: Windows Operating System was developed by which company?
@@ -3368,14 +3357,6 @@ B) USB Pen Drive
 C) RAM
 D) Solid State Drive (SSD)
 ANS: C
-
-Q: Which of the following is not an example of an Operating System?
-A) Windows 10
-B) BSD Unix
-C) Microsoft Office
-D) Windows XP
-ANS: C
-
 
 [SUBJECT: computer]
 [CHAPTER: Windows Explorer]
@@ -4400,7 +4381,6 @@ C) Electric Erasable Program Read Only Memory
 D) None of the above
 ANS: A
 
-
 [SUBJECT: computer]
 [CHAPTER: Microsoft Word]
 Q: What is MS Word?
@@ -5339,7 +5319,6 @@ C) Grammar options
 D) All of the above
 ANS: A
 
-
 [SUBJECT: computer]
 [CHAPTER: Microsoft PowerPoint]
 
@@ -6027,7 +6006,6 @@ C) 300%
 D) 400%
 ANS: D
 
-
 [SUBJECT: computer]
 [CHAPTER: Microsoft Access (DBMS)]
 Q: Microsoft Access is a(n)...
@@ -6596,7 +6574,6 @@ B) Windows
 C) macOS
 D) Android
 ANS: A
-
 
 [SUBJECT: computer]
 [CHAPTER: Networking]
@@ -7612,7 +7589,6 @@ C) Transmission Control Protocol
 D) None of the above
 ANS: C
 
-
 [SUBJECT: computer]
 [CHAPTER: Computer Virus/Malware/Cybersecurity]
 Q: The first computer virus is...
@@ -8031,7 +8007,6 @@ C) Elk Cloner
 D) Reaper
 ANS: C
 
-
 [SUBJECT: computer]
 [CHAPTER: Printer and Types]
 Q: Which of the following is an Impact Printer?
@@ -8383,7 +8358,6 @@ C) Inkjet Printer
 D) Dot Matrix Printer
 ANS: B
 
-
 [SUBJECT: computer]
 [CHAPTER: Computer Ports & Connectors]
 Q: What is the primary function of a computer port?
@@ -8665,7 +8639,6 @@ B) Parallel printer connection
 C) Mouse/Keyboard connection
 D) Network connection
 ANS: B
-
 
 [SUBJECT: computer]
 [CHAPTER: Database Management and System & SQL]
@@ -10528,7 +10501,6 @@ C) Alt + click on the slide
 D) Ctrl + Shift + click on the slide
 ANS: A
 
-
 [SUBJECT: computer]
 [CHAPTER: Computer Abbreviations]
 Q: What is the full form of BPS?
@@ -11805,13 +11777,6 @@ C) New Logic Program
 D) Node Link Protocol
 ANS: B
 
-Q: What is the full form of IoT?
-A) Integrated Operating Technology
-B) Internet over Tunnel
-C) Internet of Things
-D) Interface Over Transfer
-ANS: C
-
 Q: What is the full form of RPA?
 A) Remote Process Access
 B) Robotic Process Automation
@@ -12217,5 +12182,4 @@ B) Global Organization of Oriented Group Language of Earth
 C) General Online Operating Global Logics Exchange
 D) Graphics Output Gateway for Logic Engine
 ANS: B
-
 `;
